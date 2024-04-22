@@ -6,4 +6,4 @@ function About() {
   )
 }
 
-export default page
+export default About
